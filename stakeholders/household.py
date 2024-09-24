@@ -8,7 +8,7 @@ Attributes:
 4. assets (seperate class ... liquidity scale also implemented)
 5. Happiness (reward parameter)
 6. education (affects earn-rate, based on skills in demand)
-7. Parents
+7. Parents (inheritence tracking/ happiness tank when death)
 
 Methods:
 '''
