@@ -3,8 +3,13 @@
 2. pay creditors
 
 # Factors to balance
-1. supply ( price maintainance vs revenue maximisation )
-2. Employment ( skill-level of labor vs price of labor )
-3. increase 
+1. consumption ( dimishing returns )
+2. work-hours ( increasing happiness-cost per hour )
+3. education ( temporary reduced pay + increased cost vs long-term money back )
+4. save ( prevent bankruptcy )
 
 # brain optimising
+## actions avalaible to agent
+
+## point allocation
+

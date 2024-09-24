@@ -6,7 +6,10 @@
 # Factors to balance
 1. supply ( price maintainance vs revenue maximisation )
 2. labour productivity ( skill-level of labor vs price of labor )
-3. increase 
+3. R&D ( increases happiness of consumers, product does better)
 
 # brain optimising
 
+## actions avalaible to agent
+
+## point allocation
