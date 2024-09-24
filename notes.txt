@@ -1,0 +1,5 @@
+Gini Coefficient=Φ(σ/2​)2⋅Φ(σ/2​)−1​
+where:
+
+(\Phi) is the cumulative distribution function (CDF) of the standard normal distribution.
+(\sigma) is the standard deviation.
