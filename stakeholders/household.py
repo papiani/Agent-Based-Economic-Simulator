@@ -1,8 +1,3 @@
-import numpy as np
-import pandas as pd
-import csv
-from scipy.stats import norm
-
 ## PERSON
 '''
 Attributes:
@@ -25,6 +20,11 @@ Weights:
 2. Consumption utility -> happiness gained from spending
 3. work ethic -> affects gradient of dimishing returns from work
 '''
+
+import numpy as np
+import pandas as pd
+import csv
+from scipy.stats import norm
 class person:
     def __init__(self, gender, age, lifespan, assets, happiness) -> None:
         pass
